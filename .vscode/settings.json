@@ -1,3 +1,5 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "jupyter.interactiveWindow.viewColumn": "beside",
+    "jupyter.interactiveWindow.creationMode": "permanent"
 }
